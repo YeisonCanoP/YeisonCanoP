@@ -25,7 +25,7 @@
 Soy ingeniero backend enfocado en construir **APIs, automatizaciones y soluciones de IA aplicada** con foco en **rendimiento, trazabilidad y escalabilidad**.
 
 ### Lo que hago
-- Desarrollo backend con **Python**
+- Desarrollo backend con **Python** **Java**
 - Construcción de **APIs REST** e integraciones
 - Automatización de procesos y flujos de negocio
 - Soluciones con **LLMs, embeddings y NLP**
