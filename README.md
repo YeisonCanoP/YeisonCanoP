@@ -1,17 +1,20 @@
 <!-- README de perfil de GitHub -->
 
 <h1 align="center">Hola, soy Yeison Cano 👋</h1>
-<h3 align="center">Backend Engineer | Python, FastAPI, AWS, SQL + LLM, APIs y automatización</h3>
+<h3 align="center">Backend Engineer · Python · Node.js · Java (Spring Boot) · AWS</h3>
 
 <p align="center">
-  Construyo soluciones backend e IA aplicada para productos reales:
-  automatización, integraciones, analítica conversacional y arquitecturas listas para escalar.
+  Diseño y construyo <strong>APIs REST y servicios backend sobre arquitecturas distribuidas</strong>,
+  con foco en <strong>rendimiento, observabilidad y escalabilidad</strong> — e <strong>IA aplicada</strong> como diferenciador.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Medellín-Colombia-0A66C2?style=for-the-badge" alt="Ubicación" />
   <a href="mailto:yeisonc2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yeison-cano-3a35a9362">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YeisonCanoP">
     <img src="https://img.shields.io/badge/GitHub-YeisonCanoP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -22,15 +25,15 @@
 
 ## 🚀 Sobre mí
 
-Soy ingeniero backend enfocado en construir **APIs, automatizaciones y soluciones de IA aplicada** con foco en **rendimiento, trazabilidad y escalabilidad**.
+Ingeniero backend con ~3 años construyendo **APIs REST y microservicios** sobre **arquitecturas distribuidas**, con foco en rendimiento, trazabilidad y escalabilidad. Actualmente en **Innovati Software**, trabajando en arquitectura backend y decisiones técnicas de plataforma.
 
 ### Lo que hago
-- Desarrollo backend con **Python** **Java**
-- Construcción de **APIs REST** e integraciones
-- Automatización de procesos y flujos de negocio
-- Soluciones con **LLMs, embeddings y NLP**
+- Backend en **Python (FastAPI)**, **Node.js** y **Java (Spring Boot)**
+- Diseño de **APIs REST**, integraciones y arquitecturas de servicios
+- **Logging estructurado, métricas y trazabilidad** (observabilidad de extremo a extremo)
+- **Caching con Redis**: estrategias de TTL e invalidación
 - Despliegues en **AWS** con **Docker**
-- Sistemas **SQL + LLM** para consultas en lenguaje natural
+- **IA aplicada**: LLMs, embeddings, RAG y consultas en lenguaje natural (SQL + LLM)
 
 Me gusta construir tecnología útil, bien pensada y lista para producción.
 
@@ -38,11 +41,11 @@ Me gusta construir tecnología útil, bien pensada y lista para producción.
 
 ## 🎯 Especialidades
 
-- **Backend Engineering:** APIs REST, arquitectura de servicios, autenticación e integraciones
-- **AI aplicada:** OpenAI API, embeddings, búsqueda semántica, NLP, agentes y automatización
-- **Data & Query Systems:** SQL + LLM, validación de consultas, trazabilidad y calidad de respuesta
-- **Cloud & DevOps:** AWS, Docker, EC2, S3, Lambda, CloudWatch
-- **Escalabilidad operativa:** observabilidad, logging, rendimiento y despliegues confiables
+- **Backend & Sistemas Distribuidos:** APIs REST, microservicios, autenticación e integraciones
+- **Rendimiento & Caching:** Redis, estrategias de TTL e invalidación, optimización de consultas
+- **Observabilidad:** logging estructurado, métricas, trazabilidad y monitoreo
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, CloudWatch), Docker
+- **IA aplicada:** OpenAI, AWS Bedrock, embeddings, búsqueda semántica, RAG, NLP y SQL + LLM
 
 ---
 
@@ -61,6 +64,7 @@ Me gusta construir tecnología útil, bien pensada y lista para producción.
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
@@ -74,10 +78,12 @@ Me gusta construir tecnología útil, bien pensada y lista para producción.
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge" />
 </p>
 
 ### ☁️ Cloud / DevOps
@@ -93,9 +99,9 @@ Me gusta construir tecnología útil, bien pensada y lista para producción.
 
 ### 🗄️ Bases de datos
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 </div>
@@ -104,51 +110,51 @@ Me gusta construir tecnología útil, bien pensada y lista para producción.
 
 ## 📌 Proyectos destacados
 
-### 🏗️ Asistente IA para empresa de construcción y alquiler de equipos
-Solución backend enfocada en **atención al cliente, cotizaciones y facturación automatizada** para una empresa del sector construcción y alquiler de equipos.
+### 📊 API de Métricas de Negocio (Analytics Backend)
+Servicio backend para **métricas, eventos y observabilidad** de asistentes conversacionales y servicios backend.
 
-**Qué resuelve**
-- Atención conversacional asistida por IA
-- Generación de cotizaciones y facturas
-- Integración con CRM
-- Trazabilidad operativa y contexto conversacional
+**Qué incluye**
+- Agregaciones en **PostgreSQL** para métricas de negocio
+- **Caching con Redis** (estrategias de TTL e invalidación) para respuestas de baja latencia
+- **Logging estructurado**, monitoreo y seguimiento de eventos críticos
+- Métricas operativas para mejora continua
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `Redis` `CloudWatch` `Grafana` `Docker`
+
+---
+
+### 🏗️ Plataforma backend de atención, cotización y facturación (sector construcción)
+Servicios backend que integran **CRM, cotizaciones y facturación automatizada**, con una capa conversacional asistida por IA para atención al cliente.
+
+**Qué incluye**
+- **APIs REST** e integración con CRM
+- Generación automatizada de cotizaciones y facturas
+- Contexto conversacional y trazabilidad operativa
+- Capa de IA aplicada para atención al cliente
 
 **Stack:** `Python` `FastAPI` `OpenAI API` `AWS` `MongoDB` `Docker`
 
 ---
 
 ### 🧠 Motor SQL + LLM para consultas en lenguaje natural
-Sistema diseñado para convertir preguntas de negocio en **consultas SQL confiables**, con validaciones, control de calidad y trazabilidad.
+Servicio backend que convierte preguntas de negocio en **consultas SQL confiables**, con validaciones, control de calidad y trazabilidad.
 
-**Qué resuelve**
+**Qué incluye**
 - Traducción de lenguaje natural a SQL
-- Validación y seguridad de consultas
+- Capa de validación y seguridad de consultas
 - Trazas para auditoría
 - Mejor acceso a datos para equipos no técnicos
 
-**Stack:** `Python` `SQL` `LLM` `AWS Bedrock` `Docker`
-
----
-
-### 📊 Plataforma de analítica conversacional y trazabilidad operativa
-Proyecto orientado a medir rendimiento, eventos, errores y comportamiento de asistentes conversacionales y servicios backend.
-
-**Qué resuelve**
-- Monitoreo de flujos conversacionales
-- Observabilidad y logging
-- Seguimiento de eventos críticos
-- Métricas operativas para mejora continua
-
-**Stack:** `Python` `FastAPI` `CloudWatch` `MongoDB` `Docker` `Grafana`
+**Stack:** `Python` `SQL` `AWS Bedrock` `LLM` `Docker`
 
 ---
 
 ## 📜 Formación y certificaciones
 
-- **Ingeniería de Software** — Universidad Nacional de Colombia, Medellín
-- **Docker: Fundamentos**
-- **Java Orientado a Objetos (G5 - ONE)**
+- **Ingeniería de Software** — Universidad Nacional de Colombia (UNAL), Medellín · *en curso, grado esperado dic. 2026*
 - **Java y Spring Boot**
+- **Java Orientado a Objetos** — Oracle Next Education (G5)
+- **Docker: Fundamentos**
 
 ---
 
@@ -165,6 +171,7 @@ Proyecto orientado a medir rendimiento, eventos, errores y comportamiento de asi
 
 <p>
   📧 <strong>Email:</strong> <a href="mailto:yeisonc2002@gmail.com">yeisonc2002@gmail.com</a><br/>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/yeison-cano-3a35a9362">yeison-cano</a><br/>
   📍 <strong>Ubicación:</strong> Medellín, Colombia
 </p>
 
